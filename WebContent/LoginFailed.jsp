@@ -7,6 +7,7 @@
 <title>LoginFailed</title>
 </head>
 <body>
+<p>Login failed!Please try again</p>
 
 </body>
 </html>

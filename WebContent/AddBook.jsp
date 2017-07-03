@@ -7,8 +7,8 @@
 <title>AddBook</title>
 </head>
 <body>
-<form action="AddBookServlet" method="post">
 
+<form action="AddBookServlet" method="post">
 Name<input type="text" name="name">
 Price<input type="number" name="price">
 <button type="submit" >AddBook</button>

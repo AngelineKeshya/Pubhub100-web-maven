@@ -6,7 +6,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>SuccessfulLogin</title>
 </head>
+
 <body>
 <p><b><i>Welcome!!You are Logged in Successfully</i></b></p>
 <a href="Home.jsp">Home</a>
 </body>
+</html>

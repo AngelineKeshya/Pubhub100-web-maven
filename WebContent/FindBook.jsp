@@ -7,6 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>FindBook</title>
 </head>
+
 <body>
 <table border=1>
 <thead>
@@ -25,8 +26,6 @@
 </tr>
 </c:forEach>
 </tbody>
-
-
 
 
 </table><br><br>

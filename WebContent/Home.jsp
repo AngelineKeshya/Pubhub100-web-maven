@@ -16,7 +16,6 @@
 <a href="RemoveBook.jsp">DeleteBook</a><br>
 <a href="DisplayBooks.jsp">DispalyBooks</a><br>
 <a href="FindBook.jsp">SelectBook</a>
-
-
 </body>
+
 </html>

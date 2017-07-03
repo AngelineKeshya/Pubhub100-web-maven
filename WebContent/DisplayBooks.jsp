@@ -16,6 +16,7 @@
 <th>Price</th>
 </tr>
 </thead>
+
 <tbody >
 <c:forEach var="book" items="${books }">
 <tr>
