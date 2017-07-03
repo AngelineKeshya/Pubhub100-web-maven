@@ -38,10 +38,7 @@ public class RegisterServlet extends HttpServlet {
 		}
 		catch(Exception e){
 			e.printStackTrace();
-		}
-		
-		
-		
+		}	
 	}
 
 	}

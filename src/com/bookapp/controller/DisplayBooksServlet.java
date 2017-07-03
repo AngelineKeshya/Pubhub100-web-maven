@@ -48,8 +48,6 @@ public class DisplayBooksServlet extends HttpServlet {
 		else{
 			response.sendRedirect("NoBookFound.jsp");
 		}
-		
-		
 		} catch (Exception e) {
 			
 			e.printStackTrace();

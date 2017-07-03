@@ -27,7 +27,6 @@ public class AddBookServlet extends HttpServlet {
 		Book book=new Book();
 		book.setBookname(bookname);
 		book.setPrice(price);
-		
 		BookDAO dao= new BookDAO();
 		
 		try {
